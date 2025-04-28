@@ -9,6 +9,6 @@
         Title="О программе" Height="333" Width="551" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" PreviewKeyDown="Window_PreviewKeyDown" PreviewMouseDown="Window_PreviewMouseDown">
     <Grid>
         <Image Height="100" Margin="0,50,0,0" VerticalAlignment="Top" Width="100" HorizontalAlignment="Center" Source="Images\Картузов АВ.jpg"/>
-        <TextBlock HorizontalAlignment="Center" Margin="0,159,0,0" TextWrapping="Wrap" Text="Выполнил преподаватель Академии TOP Картузов Александр" VerticalAlignment="Top" Height="100" Width="170" TextAlignment="Center" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,159,0,0" TextWrapping="Wrap" Text="Выполнил преподаватель Компьютерной Академии TOP Картузов Александр" VerticalAlignment="Top" Height="118" Width="176" TextAlignment="Center" FontSize="16"/>
     </Grid>
 </Window>
